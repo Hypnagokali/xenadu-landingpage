@@ -1,0 +1,23 @@
+.main-header {
+    background-color: #282828;
+    color: white;
+}
+
+.xenadu-footer {
+    padding: 25px;
+    background-color: darkblue;
+}
+
+.test-0 {
+    background-color: green;
+}
+
+.test-1 {
+    background-color: aqua;
+}
+
+@media (min-device-width: 900px) {
+    .xenadu-main-content {
+        height: 80vh;
+    }
+}
